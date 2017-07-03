@@ -1,0 +1,14 @@
+{
+    "name": "luckermam/luckerman",
+    "description": "PHP Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IBT-Xiao",
+            "email": "xiaooao@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
